@@ -15,9 +15,9 @@ To be able to configure and make everything work you need to follow the followin
 - Create or log in with an account.
 - Create a new key using the “Create API Key” button.
 - Created the key copy and save the key.
--IMPORTANT: Check "Usage and Billing" and monitor daily or monthly usage with the specific chave (to the left of the screen under API Key). If the quota is exceeded, create another key.
--Save both keys start one of the three and enter the keys for STABILITY and GEMINI
--REMEMBER: To specify the directories of interest for the "stories to use" and the "result path" within the files.
+- IMPORTANT: Check "Usage and Billing" and monitor daily or monthly usage with the specific chave (to the left of the screen under API Key). If the quota is exceeded, create another key.
+- Save both keys start one of the three and enter the keys for STABILITY and GEMINI
+- REMEMBER: To specify the directories of interest for the "stories to use" and the "result path" within the files.
 
 
 ITALIAN:
